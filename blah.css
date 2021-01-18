@@ -1,0 +1,15 @@
+#a1 {
+    color:red;
+    background-color: black;
+    width: 8cm;
+    text-align: center;
+    border-radius: 2cm;
+}
+    body {
+        background-image: url("hatterkep.jpg");
+    
+}
+table {
+    background-color: black;
+    color: red;
+}
